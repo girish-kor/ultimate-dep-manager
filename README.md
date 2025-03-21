@@ -1,71 +1,44 @@
-# Ultimate Dependency Manager 🚀
-
-[![GitHub stars](https://img.shields.io/github/stars/girish-kor/ultimate-dep-manager?style=social)](https://github.com/girish-kor/ultimate-dep-manager)
-[![GitHub issues](https://img.shields.io/github/issues/girish-kor/ultimate-dep-manager)](https://github.com/girish-kor/ultimate-dep-manager/issues)
-[![License](https://img.shields.io/github/license/girish-kor/ultimate-dep-manager)](LICENSE)
-
-Effortlessly **install, update, and audit** project dependencies **inside VS Code**.
-
-![Ultimate Dependency Manager](assets/banner.png)
+Here's a more compact version of your banner while keeping all essential details:  
 
 ---
 
-## ✨ Features
+# Ultimate Dependency Manager 🚀  
 
-✔️ **Install** all dependencies with one click  
-✔️ **Update** outdated packages instantly  
-✔️ **Uninstall** unused dependencies cleanly  
+[![GitHub stars](https://img.shields.io/github/stars/girish-kor/ultimate-dep-manager?style=social)](https://github.com/girish-kor/ultimate-dep-manager)  
+Effortlessly **install, update, and audit** project dependencies **inside VS Code**.  
+
+![Ultimate Dependency Manager](assets/banner.png)  
+
+## ✨ Features  
+✔️ **Install** / **Update** / **Uninstall** dependencies  
 ✔️ **Run security audits** to fix vulnerabilities  
 
----
+## 🚀 Installation  
+1️⃣ Open **VS Code** → **Extensions** (`Ctrl+Shift+X`)  
+2️⃣ Search **Ultimate Dependency Manager** → **Install**  
 
-## 🚀 Installation
+## 🛠️ Usage  
+📌 **Open Dependency Panel** (`Ctrl+Shift+P`) → `Show Ultimate Dependency Manager`  
+🔧 **Manage Dependencies** (`Install` | `Update` | `Uninstall` | `Audit` | `Refresh`)  
 
-1️⃣ Open **VS Code**  
-2️⃣ Go to **Extensions** (`Ctrl+Shift+X`)  
-3️⃣ Search for **Ultimate Dependency Manager**  
-4️⃣ Click **Install**
+## 📌 Commands  
+| Command | Description |  
+|---------|------------|  
+| `Show Ultimate Dependency Manager` | Open panel |  
+| `Install Dependencies` | Install all |  
+| `Update Dependencies` | Update outdated |  
+| `Uninstall Dependency` | Remove specific |  
+| `Run Security Audit` | Fix vulnerabilities |  
+| `Refresh Dependency Tree` | Refresh view |  
 
----
+## 🔗 Links  
+- [GitHub](https://github.com/girish-kor/ultimate-dep-manager)  
+- [Report Issues](https://github.com/girish-kor/ultimate-dep-manager/issues)  
 
-## 🛠️ Usage
+📜 **MIT License** - See [LICENSE](LICENSE).  
 
-### 📌 Open the Dependency Panel
-
-- **Command Palette** (`Ctrl+Shift+P`) → `Show Ultimate Dependency Manager`
-- **Explorer Panel** → **Dependencies** section
-
-### 🔧 Manage Dependencies
-
-- **Install**: `Install Dependencies`
-- **Update**: `Update Dependencies`
-- **Uninstall**: `Uninstall Dependency`
-- **Audit**: `Run Security Audit`
-- **Refresh**: `Refresh Dependency Tree`
-
-
-## 📌 Commands
-
-| Command                        | Description                   |
-| ------------------------------ | ----------------------------- |
-| `Show Ultimate Dependency Manager` | Open the management panel    |
-| `Install Dependencies`         | Install all dependencies      |
-| `Uninstall Dependency`         | Remove a specific dependency  |
-| `Update Dependencies`          | Update outdated packages      |
-| `Run Security Audit`           | Fix security vulnerabilities  |
-| `Refresh Dependency Tree`      | Refresh the dependency view   |
+🚀 **Happy Coding!**  
 
 ---
 
-## 🔗 Links
-
-- **GitHub**: [girish-kor/ultimate-dep-manager](https://github.com/girish-kor/ultimate-dep-manager)
-- **Issue Tracker**: [Report an issue](https://github.com/girish-kor/ultimate-dep-manager/issues)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-# 🚀 Happy Coding!
+This keeps the key information while reducing text bulk. Let me know if you want any further refinements! 🚀
