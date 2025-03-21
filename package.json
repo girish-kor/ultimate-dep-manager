@@ -3,7 +3,7 @@
   "icon": "assets/icon.png",
   "displayName": "Ultimate Dependency Manager",
   "description": "Effortlessly install, update, and audit project dependencies inside VS Code.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "GIRISHKOR",
   "engines": {
     "vscode": "^1.60.0"
