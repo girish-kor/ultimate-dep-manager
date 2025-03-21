@@ -1,0 +1,108 @@
+{
+  "name": "ultimate-dep-manager",
+  "icon": "assets/icon.png",
+  "displayName": "Ultimate Dependency Manager",
+  "description": "Advanced dependency management for JavaScript projects",
+  "version": "0.1.0",
+  "publisher": "girish-kor",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "workspaceContains:package.json"
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "ultimateDep.showPanel",
+        "title": "Show Ultimate Dependency Manager"
+      },
+      {
+        "command": "ultimateDep.install",
+        "title": "Install Dependencies"
+      },
+      {
+        "command": "ultimateDep.uninstall",
+        "title": "Uninstall Dependency"
+      },
+      {
+        "command": "ultimateDep.update",
+        "title": "Update Dependencies"
+      },
+      {
+        "command": "ultimateDep.auditFix",
+        "title": "Run Security Audit"
+      },
+      {
+        "command": "ultimateDep.refresh",
+        "title": "Refresh Dependency Tree"
+      }
+    ],
+    "views": {
+      "explorer": [
+        {
+          "id": "dependencyExplorer",
+          "name": "Dependencies"
+        }
+      ]
+    },
+    "menus": {
+      "view/title": [
+        {
+          "command": "ultimateDep.refresh",
+          "when": "view == dependencyExplorer",
+          "group": "navigation"
+        }
+      ],
+      "view/item/context": [
+        {
+          "command": "ultimateDep.update",
+          "when": "viewItem == warning",
+          "group": "inline"
+        },
+        {
+          "command": "ultimateDep.auditFix",
+          "when": "viewItem == error",
+          "group": "inline"
+        }
+      ]
+    }
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.60.0",
+    "@types/glob": "^7.1.3",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "14.x",
+    "eslint": "^7.27.0",
+    "glob": "^7.1.7",
+    "mocha": "^8.4.0",
+    "typescript": "^4.3.2",
+    "vscode-test": "^1.5.2"
+  },
+  "dependencies": {
+    "depcheck": "^1.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giru/ultimate-dep-manager"
+  },
+  "keywords": [
+    "dependency",
+    "npm",
+    "yarn",
+    "pnpm",
+    "bun",
+    "package",
+    "manager"
+  ],
+  "license": "MIT"
+}
