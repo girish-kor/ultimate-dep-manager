@@ -43,15 +43,6 @@ Effortlessly **install, update, and audit** project dependencies **inside VS Cod
 - **Audit**: `Run Security Audit`
 - **Refresh**: `Refresh Dependency Tree`
 
----
-
-## 🖼️ Screenshots
-
-| Install & Update               | Security Audit             |
-| ------------------------------ | -------------------------- |
-| ![Install](assets/install.png) | ![Audit](assets/audit.png) |
-
----
 
 ## 📌 Commands
 
