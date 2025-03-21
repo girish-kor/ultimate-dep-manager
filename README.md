@@ -76,5 +76,5 @@ Effortlessly **install, update, and audit** project dependencies **inside VS Cod
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-# ultimate-dep-manager
-# Ultimate Dependency Manager
+
+# 🚀 Happy Coding! 🎉 Keep building, keep innovating, and may your code always run bug-free! 😃💻✨
