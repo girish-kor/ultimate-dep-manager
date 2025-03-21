@@ -6,25 +6,27 @@
 
 Effortlessly **install, update, and audit** project dependencies **inside VS Code**.
 
-<img src="assets/banner.png" width="600">
+<p align="center">
+  <img src="assets/banner.png" width="600">
+</p>
 
 ---
 
 ## ✨ Features
 
-✔️ **Install** all dependencies with one click  
-✔️ **Update** outdated packages instantly  
-✔️ **Uninstall** unused dependencies cleanly  
-✔️ **Run security audits** to fix vulnerabilities  
+- ✅ **Install** all dependencies with one click  
+- 🔄 **Update** outdated packages instantly  
+- ❌ **Uninstall** unused dependencies cleanly  
+- 🔒 **Run security audits** to fix vulnerabilities  
 
 ---
 
 ## 🚀 Installation
 
-1️⃣ Open **VS Code**  
-2️⃣ Go to **Extensions** (`Ctrl+Shift+X`)  
-3️⃣ Search for **Ultimate Dependency Manager**  
-4️⃣ Click **Install**
+1. Open **VS Code**  
+2. Go to **Extensions** (`Ctrl+Shift+X`)  
+3. Search for **Ultimate Dependency Manager**  
+4. Click **Install**
 
 ---
 
@@ -37,12 +39,17 @@ Effortlessly **install, update, and audit** project dependencies **inside VS Cod
 
 ### 🔧 Manage Dependencies
 
-- **Install**: `Install Dependencies`
-- **Update**: `Update Dependencies`
-- **Uninstall**: `Uninstall Dependency`
-- **Audit**: `Run Security Audit`
-- **Refresh**: `Refresh Dependency Tree`
+- 📥 **Install**: `Install Dependencies`
+- 🔄 **Update**: `Update Dependencies`
+- 🗑️ **Uninstall**: `Uninstall Dependency`
+- 🔍 **Audit**: `Run Security Audit`
+- 🔃 **Refresh**: `Refresh Dependency Tree`
 
+<p align="center">
+  <img src="assets/refresh-dependency-tree.png" width="500">
+</p>
+
+---
 
 ## 📌 Commands
 
