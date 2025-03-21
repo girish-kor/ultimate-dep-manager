@@ -2,7 +2,7 @@
   "name": "ultimate-dep-manager",
   "icon": "assets/icon.png",
   "displayName": "Ultimate Dependency Manager",
-  "description": "Advanced dependency management for JavaScript projects",
+  "description": "Effortlessly install, update, and audit project dependencies inside VS Code.",
   "version": "0.1.0",
   "publisher": "GIRISHKOR",
   "engines": {
