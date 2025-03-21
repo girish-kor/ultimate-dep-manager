@@ -46,7 +46,7 @@ Effortlessly **install, update, and audit** project dependencies **inside VS Cod
 - 🔃 **Refresh**: `Refresh Dependency Tree`
 
 <p align="center">
-  <img src="assets/refresh-dependency-tree.png" width="200">
+  <img src="assets/refresh-dependency-tree.png" width="300">
 </p>
 
 ---
