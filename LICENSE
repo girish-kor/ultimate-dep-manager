@@ -1,21 +1,29 @@
-MIT License
+# MIT License  
 
-Copyright (c) 2025 Girish Kor
+## Copyright (c) 2025 Girish Kor  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy  
-of this software and associated documentation files (the "Software"), to deal  
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:  
+Permission is granted, free of charge, to anyone obtaining a copy of this software  
+and its documentation (the "Software"), to use, modify, distribute, and sell copies  
+of the Software, subject to the following conditions:  
 
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.  
+- The original copyright notice and this license must remain in all copies.  
+- You may not claim ownership of the Software.  
+- No restrictions are placed on how the Software is used, but responsibility stays with the user.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
-THE SOFTWARE.  
+## Disclaimer & Warning  
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY GUARANTEES.  
+BY USING THIS SOFTWARE, YOU ACCEPT ALL RISKS.  
+
+- **No Warranty**: There are no promises of performance, reliability, or security.  
+- **No Liability**: The authors are not responsible for any damage, loss, or consequences  
+  resulting from using, modifying, or distributing this Software.  
+- **Use at Your Own Risk**: You alone bear full responsibility for how this Software is used.  
+
+## Final Notice  
+
+If something goes wrong—whether it's data loss, security breaches, or financial damage—  
+YOU HAVE BEEN WARNED.  
+
+By using this Software, you agree to these terms. If you do not accept them,  
+do not use, modify, or distribute this Software.  
