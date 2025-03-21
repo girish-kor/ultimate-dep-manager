@@ -4,7 +4,7 @@
   "displayName": "Ultimate Dependency Manager",
   "description": "Advanced dependency management for JavaScript projects",
   "version": "0.1.0",
-  "publisher": "girish-kor",
+  "publisher": "GIRISHKOR",
   "engines": {
     "vscode": "^1.60.0"
   },
